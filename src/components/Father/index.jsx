@@ -6,6 +6,7 @@ function Father(){
 
     return (
         <div className='father'>
+            <p>Tô aqui só de zoas por enquanto</p>
             <Son/>
         </div>
     )
