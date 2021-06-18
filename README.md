@@ -29,6 +29,9 @@ Ah é, de início a Context API foi usada pra permitir que um botão no componen
 
 **Estou entre 2 asteriscos**
 
+
 ************************************************
 
-Acima tem um monte de asteriscos, mas talvez não apareça nada...
+Acima tem um monte de asteriscos que aparentemente criaram uma linha
+
+Linha adicionada pra testar conflito no merge 
