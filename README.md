@@ -32,3 +32,6 @@ Ah é, de início a Context API foi usada pra permitir que um botão no componen
 ************************************************
 
 Acima tem um monte de asteriscos, mas talvez não apareça nada...
+
+
+Linha adicionada numa branch secundária pra testar conflito no merge
