@@ -21,6 +21,8 @@ Ah é, de início a Context API foi usada pra permitir que um botão no componen
 
 ### Esta linha possui 3 # no início
 
+[Estou entre colchetes :)]
+
 [Estou entre colchetes e do lado tem um link entre parênteses](https://www.youtube.com)
 
 `Estou entre aspas simples invertidas (ou são acentos graves?)`
@@ -33,5 +35,4 @@ Ah é, de início a Context API foi usada pra permitir que um botão no componen
 
 Acima tem um monte de asteriscos que aparentemente criaram uma linha
 
-
-Linha adicionada numa branch secundária pra testar conflito no merge
+Linha modificada numa branch pra testar conflito no merge do Git
