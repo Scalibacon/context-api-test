@@ -23,15 +23,15 @@ Ah é, de início a Context API foi usada pra permitir que um botão no componen
 
 [Estou entre colchetes e do lado tem um link entre parênteses](https://www.youtube.com)
 
-`Estou entre aspas simples invertidas (ou são acentos agudos?)`
+`Estou entre aspas simples invertidas (ou são acentos graves?)`
 
 *Estou entre 1 asteriscos*
 
 **Estou entre 2 asteriscos**
 
-
-************************************************
+**********************************************
 
 Acima tem um monte de asteriscos que aparentemente criaram uma linha
 
-Linha adicionada pra testar conflito no merge 
+
+Linha adicionada numa branch secundária pra testar conflito no merge
